@@ -1,4 +1,5 @@
 _site
+upload_s3.sh
 
 # Windows image file caches
 Thumbs.db
