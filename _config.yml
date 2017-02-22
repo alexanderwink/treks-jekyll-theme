@@ -40,6 +40,8 @@ people:
 social:
   - title: linkedin
     url: https://www.linkedin.com/company/treks
+  - title: envelope
+    url: mailto:hello@treks.se
 
 # Postal address (add as many lines as necessary)
 address:
