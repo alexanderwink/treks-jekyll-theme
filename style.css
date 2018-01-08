@@ -28,3 +28,22 @@ layout: style
     float: right;
   }
 }
+
+.logos-center {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+}
+
+.featured-logo {
+  height: 4em;
+  opacity: 0.2;
+  filter: grayscale(100%);
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#featured-logos {
+  padding: 0;
+  padding-top: 50px;
+}
